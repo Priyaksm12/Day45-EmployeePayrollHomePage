@@ -1,4 +1,3 @@
-
 class EmployeePayrollData{
     // getter and setter method
     get id() {
